@@ -40,9 +40,17 @@
     width: 100px;
     height: 100px;
     position: relative;
-} */
+} 
 
 #myCanvas {
     border: 1px solid black;
-    /* background-color: skyblue; */
+    background-color: skyblue;
+}
+
+*/
+
+#myDiv {
+    width: 1000px;
+    height: 1000px;
+    background-color: lightblue;
 }
