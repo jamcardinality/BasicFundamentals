@@ -8,7 +8,7 @@
     background-color: lightgreen;
     width: 100px;
     height: 100px;  
-} */
+} 
 
 #innerDiv{
     background-color: lightgreen;
@@ -21,4 +21,10 @@
     background-color: lightgreen;
     width: 200px;
     height: 200px;
+}
+
+*/
+
+#myImg {
+    width: 300px;
 }
