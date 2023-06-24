@@ -1,0 +1,13 @@
+.item-1 {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    border-radius: 0;
+    z-index: 1;
+}
+
+.item-5 {
+    position: sticky;
+    top: 50px;
+}
