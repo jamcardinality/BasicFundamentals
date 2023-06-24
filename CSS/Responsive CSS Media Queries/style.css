@@ -16,7 +16,7 @@
 /* 2xl */
 /* @media (min-width: 1536px) {} */
 
-Mobile container utility class:
+ /* Mobile container utility class: */
 .container {
   width: 100%;
   margin-left: auto;
@@ -67,7 +67,7 @@ Mobile container utility class:
   }
 }
 
-Desktop container utility class:
+/* Desktop container utility class: */
 .container {
   max-width: 1536px;
   margin-left: auto;
